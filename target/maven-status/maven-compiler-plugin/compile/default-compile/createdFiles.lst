@@ -1,0 +1,8 @@
+pages\Outlookpage.class
+pages\Signin.class
+pages\Passwordpage.class
+pages\Emailpage.class
+factory\Driverfactory.class
+configurations\Browserreader.class
+utilities\ActionsClass.class
+configurations\Configreader.class
